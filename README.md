@@ -2,6 +2,9 @@
 
 I'm Godsend Joseph by name, I am a Flutter develoer, I build mobile apps for Android and iOS using FLutter, well i don't have much to say. Thanks
 
+🌱 I’m currently learning Node Js
+📫 How to reach me: godsendjoseph@gmail.com
+
 <!--
 **quiet-programmer/quiet-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
