@@ -2,7 +2,7 @@
 
 I'm Godsend Joseph by name, I am a Flutter develoer, I build mobile apps for Android and iOS using FLutter, well i don't have much to say. Thanks
 
-🌱 I’m currently learning Node Js
+<p>🌱 I’m currently learning Node Js</p>
 📫 How to reach me: godsendjoseph@gmail.com
 
 <!--
