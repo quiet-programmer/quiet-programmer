@@ -2,6 +2,8 @@
 
 I'm Godsend Joseph by name, I am a Flutter develoer, I build mobile apps for Android and iOS using FLutter, well i don't have much to say. Thanks
 
+<p> Play Store Profile: https://play.google.com/store/apps/developer?id=View+Us </p>
+
 <p>🌱 I’m currently learning Node Js</p>
 <p> 🔭 I’m currently working on myself </p>
 📫 How to reach me: godsendjoseph@gmail.com
