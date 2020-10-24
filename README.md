@@ -7,7 +7,6 @@
 
 <p align='center'>🌱 I’m currently learning Node Js</p>
 <p align='center'> 🔭 I’m currently working on myself </p>
-<p align='center'>📫 How to reach me: godsendjoseph@gmail.com</p>
 
 <p align='center'>
 <a href="https://twitter.com/godsend_joseph">
