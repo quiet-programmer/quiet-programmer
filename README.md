@@ -4,9 +4,11 @@
 
 <p>Check out my Play Store Profile: https://play.google.com/store/apps/developer?id=View+Us </p>
 
+<center>
 <p>🌱 I’m currently learning Node Js</p>
 <p> 🔭 I’m currently working on myself </p>
-📫 How to reach me: godsendjoseph@gmail.com
+  <p>📫 How to reach me: godsendjoseph@gmail.com</p>
+</center>
 
 <p align='center'>
 <a href="https://twitter.com/godsend_joseph">
