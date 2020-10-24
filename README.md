@@ -2,9 +2,7 @@
 
 <p align='center'>I'm Godsend Joseph by name, focused on Flutter💙 and Javascript💛. </p>
 
-<p align='center'>Check out my Play Store Profile: <a href="https://play.google.com/store/apps/developer?id=View+Us">
-  <img src="https://www.xda-developers.com/files/2019/01/google-play-store-feature.png" width='150' height='100' />
-</a>&nbsp;&nbsp;
+<p align='center'>Check out my Play Store Profile: https://play.google.com/store/apps/developer?id=View+Us
 </p>
 
 <p align='center'>🌱 I’m currently learning Node Js</p>
