@@ -3,7 +3,7 @@
 <p align='center'>I'm Godsend Joseph by name, focused on Flutter💙 and Javascript💛. </p>
 
 <p align='center'>Check out my Play Store Profile: <a href="https://play.google.com/store/apps/developer?id=View+Us">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Facquaint-softtech%2Fhow-to-publish-app-on-play-store-step-by-step-guide-2b08490cbf46&psig=AOvVaw0tbei3bI3aINnPWDA3GiYW&ust=1603635640854000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNidjfm2zewCFQAAAAAdAAAAABAD" />
+  <img src="https://www.xda-developers.com/files/2019/01/google-play-store-feature.png" />
 </a>&nbsp;&nbsp;
 </p>
 
