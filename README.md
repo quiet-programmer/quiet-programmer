@@ -5,7 +5,7 @@
 <p align='center'>Check out my Play Store Profile: https://play.google.com/store/apps/developer?id=View+Us
 </p>
 
-<p align='center'>🌱 I’m currently learning Node Js</p>
+<!--<p align='center'>🌱 I’m currently learning Node Js</p>-->
 <p align='center'> 🔭 I’m currently working on myself </p>
 
 <p align='center'>
