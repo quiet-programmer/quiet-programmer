@@ -5,14 +5,6 @@
 <p align='center'>Check out my Play Store Profile: https://play.google.com/store/apps/developer?id=View+Us
 </p>
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/JohnKinyanjui/JohnKinyanjui/master/images/flutter.png" />
-<br />
-
----
-
 <!--<p align='center'>🌱 I’m currently learning Node Js</p>-->
 <p align='center'> 🔭 I’m currently working on myself </p>
 
@@ -27,6 +19,14 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/JohnKinyanjui/JohnKinyanjui/master/images/flutter.png" />
+<br />
+
+---
 
 <!--
 **quiet-programmer/quiet-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
