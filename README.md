@@ -1,5 +1,8 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br/>
+
 <p align='center'>I'm Godsend Joseph by name, focused on Flutter💙 and Javascript💛. </p>
 
 <p align='center'>Check out my Play Store Profile: https://play.google.com/store/apps/developer?id=View+Us
